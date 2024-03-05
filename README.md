@@ -8,7 +8,7 @@ I am a passionate software developer with expertise in Python programming langua
 
 ## Featured Projects
 
-### Project 1
+### Project 1 
 
 This is a Capstone Project showcasing the NLP preprocessing using Spacy and TextBlob Libraries.
 This Program Performs a Sentiment Analysis on a dataset of product reviews and also 
@@ -18,8 +18,9 @@ performs the Semantics Analysis and returns the compatibility score.
 
 ### Project 2
 
-Description of project 2 goes here.
+This is a Capstone Project that offers users access to two different financial calculators: an investment calculator and a home loan repayment calculator. The project provides a simple interface for users to input relevant financial information and obtain calculated results based on their choice.
 
+[https://github.com/sridan/FinanceCalculator.git]
 
 ## Contact Me
 
